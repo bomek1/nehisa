@@ -1,0 +1,18 @@
+c:\users\tomasz\documents\visual studio 2010\Projects\nehisa\nehisa\bin\Debug\nehisa.exe
+c:\users\tomasz\documents\visual studio 2010\Projects\nehisa\nehisa\bin\Debug\nehisa.pdb
+c:\users\tomasz\documents\visual studio 2010\Projects\nehisa\nehisa\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tomasz\documents\visual studio 2010\Projects\nehisa\nehisa\obj\x86\Debug\nehisa.Form1.resources
+c:\users\tomasz\documents\visual studio 2010\Projects\nehisa\nehisa\obj\x86\Debug\nehisa.Properties.Resources.resources
+c:\users\tomasz\documents\visual studio 2010\Projects\nehisa\nehisa\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\tomasz\documents\visual studio 2010\Projects\nehisa\nehisa\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\tomasz\documents\visual studio 2010\Projects\nehisa\nehisa\obj\x86\Debug\nehisa.exe
+c:\users\tomasz\documents\visual studio 2010\Projects\nehisa\nehisa\obj\x86\Debug\nehisa.pdb
+E:\Ze starych kompów śmieci\Documents\Projects\nehisa\nehisa\obj\x86\Debug\nehisa.exe
+E:\Ze starych kompów śmieci\Documents\Projects\nehisa\nehisa\obj\x86\Debug\nehisa.pdb
+E:\Ze starych kompów śmieci\Documents\Projects\nehisa\nehisa\bin\Debug\nehisa.exe
+E:\Ze starych kompów śmieci\Documents\Projects\nehisa\nehisa\bin\Debug\nehisa.pdb
+E:\Ze starych kompów śmieci\Documents\Projects\nehisa\nehisa\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Ze starych kompów śmieci\Documents\Projects\nehisa\nehisa\obj\x86\Debug\nehisa.Form1.resources
+E:\Ze starych kompów śmieci\Documents\Projects\nehisa\nehisa\obj\x86\Debug\nehisa.Properties.Resources.resources
+E:\Ze starych kompów śmieci\Documents\Projects\nehisa\nehisa\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Ze starych kompów śmieci\Documents\Projects\nehisa\nehisa\obj\x86\Debug\GenerateResource.write.1.tlog
